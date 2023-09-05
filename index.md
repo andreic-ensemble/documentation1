@@ -74,6 +74,7 @@ Harness your identity data with intelligent integration to drive better business
 </article>
 
 <article title="developer">
+  
 ## RadiantOne Global Synchronization
 
 <section>
