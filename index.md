@@ -3,7 +3,7 @@ title: Homepage 1
 description: Homepage 1 Description
 ---
 
-<article title="Knowledge">
+<area title="Knowledge">
   
 # Welcome to the RadiantOne Intelligent Identity Data Platform!
 
@@ -72,9 +72,9 @@ Harness your identity data with intelligent integration to drive better business
   > Learn how to monitor RadiantOne Universal Directory, configure alerts for concerning activities, and access the default reports (Access, Audit and Group Audit) available in the platform. 
   
 </section>
-</article>
+</area>
 
-<article title="developer">
+<area title="developer">
   
 ## RadiantOne Global Synchronization
 
@@ -102,4 +102,4 @@ Harness your identity data with intelligent integration to drive better business
   > Learn how to monitor RadiantOne Global Synchronization and configure alerts for concerning activities.
   
 </section>
-</article>
+</area>
